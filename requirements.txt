@@ -1,0 +1,4 @@
+Django~=2.2.7
+djangorestframework~=3.10.3
+httpie~=1.0.3
+
